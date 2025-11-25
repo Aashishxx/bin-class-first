@@ -1,1 +1,1 @@
-# bin-class-first
+BIN-CLASS-FIRST
